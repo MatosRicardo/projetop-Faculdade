@@ -1,6 +1,6 @@
 # projetop-Faculdade
 
-# Projeto HtML e CSS
+# Projeto HTML e CSS
 Esse projeto é uma demonstração simples de um site estético criado com HTML, e estilizado com CSS.
 
 ## Visão Geral
