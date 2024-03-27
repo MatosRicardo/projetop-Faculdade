@@ -7,7 +7,7 @@ Esse projeto é uma demonstração simples de um site estético criado com HTML,
 Esse projeto foi desenvolvido em uma aula introdutória de HTML e CSS...
 
 ## Como visualizar o site
-Para visualizar o site, bastra abrir o arquivo 'index.html' em qualquer navegador da web.
+Para visualizar o site, basta abrir o arquivo 'index.html' em qualquer navegador da web.
 
 ## Autor
 Esse projeto foi desenvolvido por Ricardo Ribeiro
